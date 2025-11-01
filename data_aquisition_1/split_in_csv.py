@@ -8,6 +8,10 @@ df = pd.read_csv("segments.csv")
 # === 2. Keep relevant columns ===
 df = df[["timestamp", "value", "anomaly", "sampling", "segment", "train"]]
 
+df = df[df["sampling"] == 5] 
+
+print(df.head())
+
 # === 3. Create directories ===
 base_dir = "output_data"
 train_dir = os.path.join(base_dir, "training")
