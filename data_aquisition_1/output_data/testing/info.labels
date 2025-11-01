@@ -1,0 +1,4766 @@
+{
+    "version": 1,
+    "files": [
+        {
+            "path": "normal.5.csv",
+            "name": "normal.5.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.7.csv",
+            "name": "normal.7.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.12.csv",
+            "name": "normal.12.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.13.csv",
+            "name": "anomaly.13.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.18.csv",
+            "name": "normal.18.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.20.csv",
+            "name": "anomaly.20.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.21.csv",
+            "name": "anomaly.21.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.28.csv",
+            "name": "normal.28.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.30.csv",
+            "name": "normal.30.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.31.csv",
+            "name": "anomaly.31.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.35.csv",
+            "name": "normal.35.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.42.csv",
+            "name": "normal.42.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.43.csv",
+            "name": "normal.43.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.50.csv",
+            "name": "normal.50.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.54.csv",
+            "name": "normal.54.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.61.csv",
+            "name": "normal.61.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.63.csv",
+            "name": "normal.63.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.64.csv",
+            "name": "normal.64.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.66.csv",
+            "name": "normal.66.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.72.csv",
+            "name": "normal.72.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.75.csv",
+            "name": "normal.75.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.81.csv",
+            "name": "anomaly.81.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.86.csv",
+            "name": "normal.86.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.87.csv",
+            "name": "normal.87.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.91.csv",
+            "name": "normal.91.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.94.csv",
+            "name": "normal.94.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.103.csv",
+            "name": "normal.103.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.104.csv",
+            "name": "anomaly.104.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.108.csv",
+            "name": "normal.108.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.110.csv",
+            "name": "anomaly.110.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.112.csv",
+            "name": "normal.112.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.114.csv",
+            "name": "anomaly.114.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.115.csv",
+            "name": "normal.115.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.119.csv",
+            "name": "anomaly.119.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.120.csv",
+            "name": "normal.120.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.131.csv",
+            "name": "normal.131.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.132.csv",
+            "name": "anomaly.132.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.142.csv",
+            "name": "normal.142.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.147.csv",
+            "name": "normal.147.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.148.csv",
+            "name": "anomaly.148.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.155.csv",
+            "name": "normal.155.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.167.csv",
+            "name": "normal.167.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.182.csv",
+            "name": "anomaly.182.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.184.csv",
+            "name": "anomaly.184.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.189.csv",
+            "name": "normal.189.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.190.csv",
+            "name": "anomaly.190.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.198.csv",
+            "name": "anomaly.198.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.204.csv",
+            "name": "anomaly.204.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.206.csv",
+            "name": "normal.206.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.209.csv",
+            "name": "anomaly.209.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.218.csv",
+            "name": "normal.218.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.221.csv",
+            "name": "normal.221.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.224.csv",
+            "name": "normal.224.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.226.csv",
+            "name": "normal.226.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.228.csv",
+            "name": "normal.228.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.229.csv",
+            "name": "normal.229.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.235.csv",
+            "name": "anomaly.235.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.239.csv",
+            "name": "anomaly.239.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.243.csv",
+            "name": "anomaly.243.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.252.csv",
+            "name": "anomaly.252.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.256.csv",
+            "name": "anomaly.256.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.260.csv",
+            "name": "normal.260.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.261.csv",
+            "name": "anomaly.261.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.265.csv",
+            "name": "anomaly.265.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.266.csv",
+            "name": "normal.266.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.270.csv",
+            "name": "anomaly.270.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.273.csv",
+            "name": "anomaly.273.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.276.csv",
+            "name": "anomaly.276.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.277.csv",
+            "name": "normal.277.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.278.csv",
+            "name": "anomaly.278.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.279.csv",
+            "name": "anomaly.279.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.289.csv",
+            "name": "anomaly.289.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.292.csv",
+            "name": "anomaly.292.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.301.csv",
+            "name": "anomaly.301.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.304.csv",
+            "name": "normal.304.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.306.csv",
+            "name": "anomaly.306.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.308.csv",
+            "name": "normal.308.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.309.csv",
+            "name": "anomaly.309.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.310.csv",
+            "name": "normal.310.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.314.csv",
+            "name": "normal.314.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.315.csv",
+            "name": "anomaly.315.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.318.csv",
+            "name": "anomaly.318.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.320.csv",
+            "name": "anomaly.320.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.326.csv",
+            "name": "anomaly.326.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.327.csv",
+            "name": "anomaly.327.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.328.csv",
+            "name": "anomaly.328.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.336.csv",
+            "name": "normal.336.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.343.csv",
+            "name": "normal.343.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.351.csv",
+            "name": "normal.351.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.356.csv",
+            "name": "normal.356.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.357.csv",
+            "name": "normal.357.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.372.csv",
+            "name": "normal.372.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.381.csv",
+            "name": "normal.381.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.382.csv",
+            "name": "normal.382.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.384.csv",
+            "name": "normal.384.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.388.csv",
+            "name": "normal.388.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.395.csv",
+            "name": "normal.395.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.397.csv",
+            "name": "normal.397.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.403.csv",
+            "name": "normal.403.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.406.csv",
+            "name": "normal.406.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.410.csv",
+            "name": "normal.410.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.415.csv",
+            "name": "normal.415.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.417.csv",
+            "name": "normal.417.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.420.csv",
+            "name": "normal.420.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.421.csv",
+            "name": "normal.421.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.427.csv",
+            "name": "normal.427.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.429.csv",
+            "name": "normal.429.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.433.csv",
+            "name": "normal.433.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.437.csv",
+            "name": "normal.437.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.440.csv",
+            "name": "normal.440.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.444.csv",
+            "name": "anomaly.444.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.449.csv",
+            "name": "normal.449.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.450.csv",
+            "name": "anomaly.450.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.452.csv",
+            "name": "anomaly.452.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.458.csv",
+            "name": "anomaly.458.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.466.csv",
+            "name": "anomaly.466.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.476.csv",
+            "name": "normal.476.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.478.csv",
+            "name": "normal.478.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.493.csv",
+            "name": "normal.493.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.498.csv",
+            "name": "normal.498.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.500.csv",
+            "name": "normal.500.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.504.csv",
+            "name": "anomaly.504.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.520.csv",
+            "name": "normal.520.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.522.csv",
+            "name": "normal.522.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.524.csv",
+            "name": "anomaly.524.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.529.csv",
+            "name": "normal.529.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.533.csv",
+            "name": "normal.533.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.535.csv",
+            "name": "normal.535.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.537.csv",
+            "name": "normal.537.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.543.csv",
+            "name": "anomaly.543.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.546.csv",
+            "name": "normal.546.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.547.csv",
+            "name": "normal.547.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.550.csv",
+            "name": "normal.550.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.553.csv",
+            "name": "normal.553.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.554.csv",
+            "name": "anomaly.554.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.556.csv",
+            "name": "normal.556.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.558.csv",
+            "name": "anomaly.558.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.564.csv",
+            "name": "anomaly.564.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.565.csv",
+            "name": "anomaly.565.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.566.csv",
+            "name": "normal.566.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.569.csv",
+            "name": "anomaly.569.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.576.csv",
+            "name": "anomaly.576.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.582.csv",
+            "name": "normal.582.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.585.csv",
+            "name": "anomaly.585.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.590.csv",
+            "name": "anomaly.590.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.591.csv",
+            "name": "normal.591.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.594.csv",
+            "name": "normal.594.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.600.csv",
+            "name": "normal.600.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.602.csv",
+            "name": "normal.602.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.605.csv",
+            "name": "normal.605.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.610.csv",
+            "name": "anomaly.610.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.611.csv",
+            "name": "normal.611.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.614.csv",
+            "name": "anomaly.614.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.615.csv",
+            "name": "normal.615.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.616.csv",
+            "name": "normal.616.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.623.csv",
+            "name": "anomaly.623.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.627.csv",
+            "name": "anomaly.627.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.628.csv",
+            "name": "normal.628.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.630.csv",
+            "name": "normal.630.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.632.csv",
+            "name": "anomaly.632.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.633.csv",
+            "name": "normal.633.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.638.csv",
+            "name": "anomaly.638.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.647.csv",
+            "name": "normal.647.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.655.csv",
+            "name": "anomaly.655.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.670.csv",
+            "name": "normal.670.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.671.csv",
+            "name": "normal.671.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.678.csv",
+            "name": "normal.678.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.679.csv",
+            "name": "normal.679.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.680.csv",
+            "name": "normal.680.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.682.csv",
+            "name": "normal.682.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.683.csv",
+            "name": "normal.683.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.701.csv",
+            "name": "normal.701.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.706.csv",
+            "name": "normal.706.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.707.csv",
+            "name": "normal.707.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.708.csv",
+            "name": "normal.708.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.710.csv",
+            "name": "normal.710.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.711.csv",
+            "name": "normal.711.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.712.csv",
+            "name": "normal.712.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.715.csv",
+            "name": "normal.715.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.717.csv",
+            "name": "normal.717.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.722.csv",
+            "name": "normal.722.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.726.csv",
+            "name": "normal.726.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.733.csv",
+            "name": "normal.733.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.734.csv",
+            "name": "normal.734.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.735.csv",
+            "name": "normal.735.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.738.csv",
+            "name": "normal.738.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.746.csv",
+            "name": "normal.746.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.749.csv",
+            "name": "normal.749.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.753.csv",
+            "name": "normal.753.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.756.csv",
+            "name": "anomaly.756.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.761.csv",
+            "name": "normal.761.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.764.csv",
+            "name": "normal.764.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.767.csv",
+            "name": "normal.767.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.779.csv",
+            "name": "normal.779.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.792.csv",
+            "name": "normal.792.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.798.csv",
+            "name": "normal.798.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.800.csv",
+            "name": "normal.800.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.803.csv",
+            "name": "normal.803.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.805.csv",
+            "name": "normal.805.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.813.csv",
+            "name": "normal.813.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.814.csv",
+            "name": "normal.814.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.817.csv",
+            "name": "anomaly.817.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.820.csv",
+            "name": "normal.820.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.822.csv",
+            "name": "normal.822.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.827.csv",
+            "name": "normal.827.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.828.csv",
+            "name": "normal.828.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.831.csv",
+            "name": "normal.831.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.835.csv",
+            "name": "normal.835.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.841.csv",
+            "name": "normal.841.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.853.csv",
+            "name": "normal.853.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.856.csv",
+            "name": "normal.856.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.860.csv",
+            "name": "normal.860.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.861.csv",
+            "name": "anomaly.861.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.863.csv",
+            "name": "normal.863.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.865.csv",
+            "name": "normal.865.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.868.csv",
+            "name": "anomaly.868.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.870.csv",
+            "name": "anomaly.870.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.871.csv",
+            "name": "normal.871.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.883.csv",
+            "name": "normal.883.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.895.csv",
+            "name": "normal.895.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.903.csv",
+            "name": "normal.903.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.905.csv",
+            "name": "normal.905.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.912.csv",
+            "name": "normal.912.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.923.csv",
+            "name": "normal.923.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.925.csv",
+            "name": "normal.925.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.927.csv",
+            "name": "anomaly.927.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.929.csv",
+            "name": "normal.929.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.937.csv",
+            "name": "anomaly.937.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.944.csv",
+            "name": "normal.944.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.949.csv",
+            "name": "normal.949.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.952.csv",
+            "name": "normal.952.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.953.csv",
+            "name": "normal.953.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.954.csv",
+            "name": "normal.954.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.956.csv",
+            "name": "anomaly.956.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.957.csv",
+            "name": "normal.957.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.961.csv",
+            "name": "normal.961.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.965.csv",
+            "name": "normal.965.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.970.csv",
+            "name": "normal.970.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.971.csv",
+            "name": "normal.971.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.974.csv",
+            "name": "normal.974.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.977.csv",
+            "name": "normal.977.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.979.csv",
+            "name": "normal.979.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.980.csv",
+            "name": "normal.980.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.989.csv",
+            "name": "normal.989.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.992.csv",
+            "name": "normal.992.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1001.csv",
+            "name": "normal.1001.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1003.csv",
+            "name": "normal.1003.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1004.csv",
+            "name": "normal.1004.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1005.csv",
+            "name": "normal.1005.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1006.csv",
+            "name": "normal.1006.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1016.csv",
+            "name": "normal.1016.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1017.csv",
+            "name": "normal.1017.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1024.csv",
+            "name": "normal.1024.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1030.csv",
+            "name": "normal.1030.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1038.csv",
+            "name": "normal.1038.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1039.csv",
+            "name": "normal.1039.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1041.csv",
+            "name": "normal.1041.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1047.csv",
+            "name": "normal.1047.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1053.csv",
+            "name": "normal.1053.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1054.csv",
+            "name": "normal.1054.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1058.csv",
+            "name": "normal.1058.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1066.csv",
+            "name": "normal.1066.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1068.csv",
+            "name": "anomaly.1068.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1072.csv",
+            "name": "normal.1072.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1079.csv",
+            "name": "normal.1079.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1085.csv",
+            "name": "normal.1085.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1102.csv",
+            "name": "normal.1102.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1105.csv",
+            "name": "normal.1105.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1112.csv",
+            "name": "normal.1112.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1116.csv",
+            "name": "normal.1116.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1120.csv",
+            "name": "normal.1120.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1123.csv",
+            "name": "normal.1123.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1126.csv",
+            "name": "normal.1126.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1132.csv",
+            "name": "normal.1132.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1133.csv",
+            "name": "normal.1133.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1156.csv",
+            "name": "normal.1156.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1158.csv",
+            "name": "normal.1158.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1166.csv",
+            "name": "normal.1166.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1168.csv",
+            "name": "normal.1168.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1170.csv",
+            "name": "normal.1170.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1176.csv",
+            "name": "normal.1176.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1177.csv",
+            "name": "normal.1177.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1182.csv",
+            "name": "normal.1182.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1183.csv",
+            "name": "anomaly.1183.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1184.csv",
+            "name": "normal.1184.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1189.csv",
+            "name": "anomaly.1189.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1190.csv",
+            "name": "normal.1190.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1194.csv",
+            "name": "normal.1194.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1198.csv",
+            "name": "normal.1198.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1201.csv",
+            "name": "normal.1201.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1203.csv",
+            "name": "normal.1203.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1204.csv",
+            "name": "anomaly.1204.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1205.csv",
+            "name": "normal.1205.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1206.csv",
+            "name": "normal.1206.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1215.csv",
+            "name": "normal.1215.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1221.csv",
+            "name": "normal.1221.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1223.csv",
+            "name": "normal.1223.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1233.csv",
+            "name": "normal.1233.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1240.csv",
+            "name": "normal.1240.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1242.csv",
+            "name": "normal.1242.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1253.csv",
+            "name": "normal.1253.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1257.csv",
+            "name": "normal.1257.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1259.csv",
+            "name": "normal.1259.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1262.csv",
+            "name": "normal.1262.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1267.csv",
+            "name": "normal.1267.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1273.csv",
+            "name": "anomaly.1273.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1276.csv",
+            "name": "normal.1276.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1278.csv",
+            "name": "normal.1278.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1281.csv",
+            "name": "normal.1281.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1282.csv",
+            "name": "normal.1282.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1286.csv",
+            "name": "normal.1286.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1288.csv",
+            "name": "normal.1288.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1291.csv",
+            "name": "normal.1291.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1293.csv",
+            "name": "normal.1293.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1295.csv",
+            "name": "normal.1295.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1304.csv",
+            "name": "normal.1304.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1307.csv",
+            "name": "normal.1307.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1309.csv",
+            "name": "anomaly.1309.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1311.csv",
+            "name": "normal.1311.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1313.csv",
+            "name": "normal.1313.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1316.csv",
+            "name": "normal.1316.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1324.csv",
+            "name": "normal.1324.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1329.csv",
+            "name": "normal.1329.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1330.csv",
+            "name": "anomaly.1330.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1331.csv",
+            "name": "anomaly.1331.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1336.csv",
+            "name": "normal.1336.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1338.csv",
+            "name": "normal.1338.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1341.csv",
+            "name": "normal.1341.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1346.csv",
+            "name": "normal.1346.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1353.csv",
+            "name": "normal.1353.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1359.csv",
+            "name": "normal.1359.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1360.csv",
+            "name": "normal.1360.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1364.csv",
+            "name": "normal.1364.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1373.csv",
+            "name": "normal.1373.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1374.csv",
+            "name": "normal.1374.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1381.csv",
+            "name": "normal.1381.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1384.csv",
+            "name": "normal.1384.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1389.csv",
+            "name": "normal.1389.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1391.csv",
+            "name": "normal.1391.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1394.csv",
+            "name": "normal.1394.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1401.csv",
+            "name": "normal.1401.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1402.csv",
+            "name": "normal.1402.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1403.csv",
+            "name": "normal.1403.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1405.csv",
+            "name": "normal.1405.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1408.csv",
+            "name": "normal.1408.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1411.csv",
+            "name": "normal.1411.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1412.csv",
+            "name": "normal.1412.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1422.csv",
+            "name": "normal.1422.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1430.csv",
+            "name": "normal.1430.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1437.csv",
+            "name": "normal.1437.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1445.csv",
+            "name": "normal.1445.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1446.csv",
+            "name": "normal.1446.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1456.csv",
+            "name": "normal.1456.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1460.csv",
+            "name": "normal.1460.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1462.csv",
+            "name": "normal.1462.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1465.csv",
+            "name": "normal.1465.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1466.csv",
+            "name": "normal.1466.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1471.csv",
+            "name": "normal.1471.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1472.csv",
+            "name": "normal.1472.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1473.csv",
+            "name": "normal.1473.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1475.csv",
+            "name": "normal.1475.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1477.csv",
+            "name": "normal.1477.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1478.csv",
+            "name": "normal.1478.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1482.csv",
+            "name": "normal.1482.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1483.csv",
+            "name": "normal.1483.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1486.csv",
+            "name": "normal.1486.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1488.csv",
+            "name": "normal.1488.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1493.csv",
+            "name": "normal.1493.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1494.csv",
+            "name": "normal.1494.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1495.csv",
+            "name": "normal.1495.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1498.csv",
+            "name": "normal.1498.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1501.csv",
+            "name": "normal.1501.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1511.csv",
+            "name": "normal.1511.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1512.csv",
+            "name": "normal.1512.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1518.csv",
+            "name": "anomaly.1518.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1522.csv",
+            "name": "normal.1522.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1524.csv",
+            "name": "normal.1524.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1525.csv",
+            "name": "normal.1525.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1527.csv",
+            "name": "normal.1527.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1542.csv",
+            "name": "normal.1542.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1549.csv",
+            "name": "normal.1549.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1550.csv",
+            "name": "normal.1550.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1551.csv",
+            "name": "normal.1551.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1554.csv",
+            "name": "normal.1554.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1558.csv",
+            "name": "normal.1558.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1560.csv",
+            "name": "anomaly.1560.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1562.csv",
+            "name": "anomaly.1562.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1569.csv",
+            "name": "anomaly.1569.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1571.csv",
+            "name": "normal.1571.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1573.csv",
+            "name": "normal.1573.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1574.csv",
+            "name": "normal.1574.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1575.csv",
+            "name": "anomaly.1575.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1579.csv",
+            "name": "anomaly.1579.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1580.csv",
+            "name": "normal.1580.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1584.csv",
+            "name": "normal.1584.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1585.csv",
+            "name": "normal.1585.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1587.csv",
+            "name": "normal.1587.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1588.csv",
+            "name": "normal.1588.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1591.csv",
+            "name": "normal.1591.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1595.csv",
+            "name": "anomaly.1595.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1600.csv",
+            "name": "normal.1600.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1601.csv",
+            "name": "anomaly.1601.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1603.csv",
+            "name": "normal.1603.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1613.csv",
+            "name": "normal.1613.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1614.csv",
+            "name": "normal.1614.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1617.csv",
+            "name": "anomaly.1617.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1618.csv",
+            "name": "normal.1618.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1620.csv",
+            "name": "normal.1620.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1633.csv",
+            "name": "normal.1633.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1639.csv",
+            "name": "anomaly.1639.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1643.csv",
+            "name": "normal.1643.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1649.csv",
+            "name": "normal.1649.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1657.csv",
+            "name": "normal.1657.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1659.csv",
+            "name": "anomaly.1659.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1665.csv",
+            "name": "normal.1665.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1666.csv",
+            "name": "anomaly.1666.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1667.csv",
+            "name": "normal.1667.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1669.csv",
+            "name": "normal.1669.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1676.csv",
+            "name": "normal.1676.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1685.csv",
+            "name": "normal.1685.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1686.csv",
+            "name": "normal.1686.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1699.csv",
+            "name": "normal.1699.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1700.csv",
+            "name": "normal.1700.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1704.csv",
+            "name": "normal.1704.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1709.csv",
+            "name": "normal.1709.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1710.csv",
+            "name": "normal.1710.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1712.csv",
+            "name": "normal.1712.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1716.csv",
+            "name": "anomaly.1716.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1725.csv",
+            "name": "anomaly.1725.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1728.csv",
+            "name": "normal.1728.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1732.csv",
+            "name": "normal.1732.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1734.csv",
+            "name": "normal.1734.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1735.csv",
+            "name": "normal.1735.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1738.csv",
+            "name": "anomaly.1738.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1744.csv",
+            "name": "anomaly.1744.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1748.csv",
+            "name": "anomaly.1748.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1751.csv",
+            "name": "anomaly.1751.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1756.csv",
+            "name": "normal.1756.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1757.csv",
+            "name": "normal.1757.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1759.csv",
+            "name": "normal.1759.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1761.csv",
+            "name": "normal.1761.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1763.csv",
+            "name": "normal.1763.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1764.csv",
+            "name": "normal.1764.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1771.csv",
+            "name": "normal.1771.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1782.csv",
+            "name": "normal.1782.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1788.csv",
+            "name": "normal.1788.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1793.csv",
+            "name": "anomaly.1793.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1795.csv",
+            "name": "normal.1795.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1803.csv",
+            "name": "anomaly.1803.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1805.csv",
+            "name": "anomaly.1805.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1812.csv",
+            "name": "anomaly.1812.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1816.csv",
+            "name": "normal.1816.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1820.csv",
+            "name": "normal.1820.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1821.csv",
+            "name": "normal.1821.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1822.csv",
+            "name": "normal.1822.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1828.csv",
+            "name": "normal.1828.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1830.csv",
+            "name": "normal.1830.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1833.csv",
+            "name": "normal.1833.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1842.csv",
+            "name": "normal.1842.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1848.csv",
+            "name": "normal.1848.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1853.csv",
+            "name": "normal.1853.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1856.csv",
+            "name": "normal.1856.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1858.csv",
+            "name": "normal.1858.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1860.csv",
+            "name": "normal.1860.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1867.csv",
+            "name": "normal.1867.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1868.csv",
+            "name": "normal.1868.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1869.csv",
+            "name": "normal.1869.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1872.csv",
+            "name": "normal.1872.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1890.csv",
+            "name": "normal.1890.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1892.csv",
+            "name": "normal.1892.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1893.csv",
+            "name": "normal.1893.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1895.csv",
+            "name": "normal.1895.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1904.csv",
+            "name": "normal.1904.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1906.csv",
+            "name": "normal.1906.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1913.csv",
+            "name": "normal.1913.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1914.csv",
+            "name": "normal.1914.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1915.csv",
+            "name": "normal.1915.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1917.csv",
+            "name": "normal.1917.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1918.csv",
+            "name": "normal.1918.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1921.csv",
+            "name": "normal.1921.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1923.csv",
+            "name": "normal.1923.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1929.csv",
+            "name": "normal.1929.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1938.csv",
+            "name": "normal.1938.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1949.csv",
+            "name": "anomaly.1949.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1953.csv",
+            "name": "anomaly.1953.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1954.csv",
+            "name": "normal.1954.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1955.csv",
+            "name": "anomaly.1955.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1956.csv",
+            "name": "anomaly.1956.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "anomaly.1957.csv",
+            "name": "anomaly.1957.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1960.csv",
+            "name": "normal.1960.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1962.csv",
+            "name": "normal.1962.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1964.csv",
+            "name": "normal.1964.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1967.csv",
+            "name": "anomaly.1967.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1968.csv",
+            "name": "normal.1968.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1973.csv",
+            "name": "normal.1973.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1975.csv",
+            "name": "normal.1975.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1986.csv",
+            "name": "normal.1986.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1988.csv",
+            "name": "normal.1988.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.1990.csv",
+            "name": "normal.1990.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.1996.csv",
+            "name": "anomaly.1996.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.1999.csv",
+            "name": "normal.1999.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.2017.csv",
+            "name": "anomaly.2017.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.2018.csv",
+            "name": "normal.2018.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2023.csv",
+            "name": "normal.2023.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2036.csv",
+            "name": "normal.2036.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2040.csv",
+            "name": "normal.2040.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2041.csv",
+            "name": "normal.2041.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2042.csv",
+            "name": "normal.2042.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2058.csv",
+            "name": "normal.2058.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.2065.csv",
+            "name": "anomaly.2065.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.2066.csv",
+            "name": "normal.2066.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.2068.csv",
+            "name": "anomaly.2068.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.2076.csv",
+            "name": "normal.2076.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2079.csv",
+            "name": "normal.2079.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2081.csv",
+            "name": "normal.2081.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2083.csv",
+            "name": "normal.2083.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2085.csv",
+            "name": "normal.2085.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2087.csv",
+            "name": "normal.2087.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2089.csv",
+            "name": "normal.2089.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.2090.csv",
+            "name": "anomaly.2090.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.2094.csv",
+            "name": "normal.2094.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "anomaly.2103.csv",
+            "name": "anomaly.2103.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "anomaly"
+            }
+        },
+        {
+            "path": "normal.2104.csv",
+            "name": "normal.2104.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2108.csv",
+            "name": "normal.2108.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2109.csv",
+            "name": "normal.2109.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2111.csv",
+            "name": "normal.2111.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2114.csv",
+            "name": "normal.2114.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2116.csv",
+            "name": "normal.2116.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        },
+        {
+            "path": "normal.2119.csv",
+            "name": "normal.2119.csv",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "normal"
+            }
+        }
+    ]
+}
