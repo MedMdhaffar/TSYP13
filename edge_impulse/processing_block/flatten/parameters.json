@@ -1,0 +1,97 @@
+{
+    "version": 1,
+    "type": "dsp",
+    "info": {
+        "title": "Flatten",
+        "author": "supmohamed",
+        "description": "Flatten an axis into multiple values, useful for slow-moving averages like temperature data, in combination with other blocks.",
+        "name": "Flatten",
+        "preferConvolution": false,
+        "cppType": "flatten_custom",
+        "experimental": false,
+        "latestImplementationVersion": 1,
+        "hasFeatureImportance": true
+    },
+    "parameters": [
+        {
+            "group": "Scaling",
+            "items": [
+                {
+                    "name": "Scale axes",
+                    "value": 1,
+                    "type": "float",
+                    "help": "Multiply all axes by this number",
+                    "param": "scale-axes"
+                }
+            ]
+        },
+        {
+            "group": "Method",
+            "items": [
+                {
+                    "name": "Mean",
+                    "value": true,
+                    "type": "boolean",
+                    "help": "Calculates the mean value for the window",
+                    "param": "mean"
+                },
+                {
+                    "name": "Variance",
+                    "value": true,
+                    "type": "boolean",
+                    "help": "Calculates the variance of the window",
+                    "param": "variance"
+                },
+                {
+                    "name": "Skewness",
+                    "value": true,
+                    "type": "boolean",
+                    "help": "Calculates the skewness of the window",
+                    "param": "skewness"
+                },
+                {
+                    "name": "Kurtosis",
+                    "value": true,
+                    "type": "boolean",
+                    "help": "Calculates the kurtosis of the window",
+                    "param": "kurtosis"
+                },
+                {
+                    "name": "Number of Peaks",
+                    "value": true,
+                    "type": "boolean",
+                    "help": "Calculates the number of peaks in the window",
+                    "param": "n-peaks"
+                },
+                {
+                    "name": "Smooth(10) Peaks",
+                    "value": true,
+                    "type": "boolean",
+                    "help": "Calculates peaks after smoothing with a 10-sample window",
+                    "param": "smooth10-peaks"
+                },
+                {
+                    "name": "Smooth(20) Peaks",
+                    "value": true,
+                    "type": "boolean",
+                    "help": "Calculates peaks after smoothing with a 20-sample window",
+                    "param": "smooth20-peaks"
+                },
+                {
+                    "name": "Diff Peaks Count",
+                    "value": true,
+                    "type": "boolean",
+                    "help": "Calculates the number of peaks after taking the first difference",
+                    "param": "diff-peaks"
+                },
+                {
+                    "name": "Diff Variance",
+                    "value": true,
+                    "type": "boolean",
+                    "help": "Calculates the variance of the first difference",
+                    "param": "diff-variance"
+                }
+            ]
+        }
+    ]
+}
