@@ -24,7 +24,7 @@ The solution leverages a dual-AI approach optimized for low-power edge computing
 ---
 
 ## 📂 Repository Structure
-
+```bash
 The project code and resources are logically separated into three major development areas: Machine Learning (ML), Data Processing, and Embedded Implementation.
 ├── ML_models(detection)    # Anomaly Detection (ANN) Model Notebooks and Training Data
 ├── ML_models(correction)   # Random Forest Correction Model Notebooks (Model1 to Model9)
@@ -34,6 +34,7 @@ The project code and resources are logically separated into three major developm
 ├── .gitignore              # Specifies files and directories ignored by Git
 ├── LICENCE                 # Project's Proprietary License File
 └── README.md               # Project overview, features, and setup instructions
+```
 ---
 
 ## ⚙️ Deployment and Development Tools
