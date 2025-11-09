@@ -2,6 +2,12 @@
 
 The anomaly detection models are trained using telemetry collected from the **OPS-SAT ADCS** subsystem.  
 The data undergoes a structured pipeline consisting of **scaling → feature extraction → optimization** to produce a compact, high-information training dataset suitable for on-board inference.
+The data is the values of a channel over a period of time(segment)
+#this a plot of the values versus the time of one of the nine sensors(anomaly and normal) :
+<img width="770" height="379" alt="image" src="https://github.com/user-attachments/assets/72199fbb-8196-400b-869c-7ca57be7cb10" />
+<img width="769" height="376" alt="image" src="https://github.com/user-attachments/assets/6b508d5e-8765-4d84-a95a-8d283118b0bb" />
+the data contains : 
+<img width="933" height="208" alt="image" src="https://github.com/user-attachments/assets/8b6389c3-ba08-412b-b845-b1e96ada1261" />
 
 ---
 
@@ -108,3 +114,77 @@ The **Artificial Neural Network (ANN)** was selected as the final model due to:
 This makes the ANN model both **accurate** and **deployment-efficient**, meeting the operational constraints of onboard satellite ADCS systems.
 
 ---
+
+---
+
+## IV. Artificial Neural Network (ANN) Architecture 🧠
+
+The anomaly detection is executed using a **Multi-Layer Perceptron (MLP)** optimized for **fast, low-power edge inference** on the STM32F429 microcontroller.  
+The network performs a **binary classification** to determine whether a given ADCS telemetry segment is **Normal** or **Anomalous**.
+
+---
+
+### A. Input Layer — Feature Vector
+
+The input to the ANN is the **feature-engineered vector** produced during the dataset preparation pipeline.
+
+| Component | Description |
+|----------|-------------|
+| **Data Source** | `ready_data.csv` (final filtered training dataset) |
+| **Input Structure** | Numerical feature vector (~11–13 features after correlation filtering) |
+| **Content** | Statistical and temporal descriptors derived from ADCS channels (Magnetometer X/Y/Z and Photodiodes PD1–PD6) |
+
+Each input feature captures meaningful signal behavior such as mean, variance, kurtosis, peak counts, or segment duration.
+
+---
+
+### B. Hidden Layers — Sequential Processing
+
+The ANN uses a **fully connected deep neural architecture**:
+
+| Layer | Neurons | Activation |
+|------|---------|------------|
+| Hidden Layer 1 | 128 | ReLU |
+| Hidden Layer 2 | 64 | ReLU |
+| Hidden Layer 3 | 32 | ReLU |
+
+This depth enables the model to learn **progressively complex patterns**, allowing reliable discrimination between normal and anomalous ADCS behavior.
+
+---
+
+### C. Output Layer — Binary Decision
+
+| Output Component | Description |
+|------------------|-------------|
+| Output Neurons | 1 |
+| Activation Function | Sigmoid |
+| Output Meaning | Probability of anomaly |
+
+Interpretation:
+
+| Output Value | Meaning |
+|-------------|---------|
+| **≈ 0** | System operating normally |
+| **≈ 1** | **Anomaly Detected** → triggers corrective action |
+
+---
+
+### ✅ Key Deployment Benefits
+
+| Metric | Value |
+|-------|-------|
+| **Classification Accuracy** | 95.65% |
+| **F1 Score** | 89.1% |
+| **Latency on STM32F429** | ~2 ms |
+| **RAM Usage** | ~0.2 KB |
+| **Flash Footprint** | ~34.7 KB |
+
+This makes the ANN **highly efficient** and **mission-ready** for **real-time autonomous CubeSat operations**.
+
+The neural network architecture :
+<img width="354" height="1105" alt="image" src="https://github.com/user-attachments/assets/be273db6-7474-4e1a-8579-1a93560f8be3" />
+
+
+
+---
+
