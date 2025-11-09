@@ -26,19 +26,14 @@ The solution leverages a dual-AI approach optimized for low-power edge computing
 ## 📂 Repository Structure
 
 The project code and resources are logically separated into three major development areas: Machine Learning (ML), Data Processing, and Embedded Implementation.
-
-```bash
-
-
-├── ML_models(detection) # Contains the notebooks, training data, and source code used for developing the primary **Anomaly Detection (ANN) model** and generating the final dataset.
-├── ML_models(correction)  # Dedicated space for the notebooks (e.g., `model1.ipynb` to `model9.ipynb`) used to train and validate the **nine Random Forest correction models**.
-├── edge_impulse   # Includes scripts for **data acquisition** (used for uploading data to the Edge Impulse platform), the **processing block** for feature extraction, and the **learning block** used to implement a lower-accuracy NN model within the platform.
-├── STM32f429   # Houses the **final embedded firmware** for the STM32F429 Discovery Kit. This includes two distinct deployments: one using the **Edge Impulse** framework and a highly optimized, high-accuracy deployment using the **CubeAI framework** within STM32CubeIDE.
-├── schemaelectrique  # Stores project files related to the **electrical schematics** and hardware interface design for the integrated ADCS and AI subsystem.
-├── .gitignore        # Specifies files and directories Git should ignore
-├── LICENCE           # Proprietary license file (as drafted)
-└── README.md         # Project overview, features, and structure
-```
+├── ML_models(detection)    # Anomaly Detection (ANN) Model Notebooks and Training Data
+├── ML_models(correction)   # Random Forest Correction Model Notebooks (Model1 to Model9)
+├── edge_impulse            # Data Acquisition Scripts and Edge Impulse Project Configurations
+├── STM32f429               # Final Embedded Firmware (High-Accuracy CubeAI & Edge Impulse Deployments)
+├── schemaelectrique        # Electrical Schematics and Hardware Interface Design Files
+├── .gitignore              # Specifies files and directories ignored by Git
+├── LICENCE                 # Project's Proprietary License File
+└── README.md               # Project overview, features, and setup instructions
 ---
 
 ## ⚙️ Deployment and Development Tools
