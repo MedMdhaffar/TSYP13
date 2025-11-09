@@ -66,4 +66,4 @@ The project is organized into three main development areas: Machine Learning (ML
 
 ## 📄 License
 
-This project is developed for the IEEE IES & AESS Challenge (TSYP 13). All associated code and documentation rights are reserved by the authors and challenge rules.
+This project is developed for the IEEE AESS Challenge (TSYP 13). All associated code and documentation rights are reserved by the authors and challenge rules.
