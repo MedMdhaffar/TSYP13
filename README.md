@@ -1,4 +1,4 @@
-# 🛰️ Autonomous ADCS Monitoring System for OPS-SAT
+9# 🛰️ Autonomous ADCS Monitoring System for OPS-SAT
 
 ## Project Overview
 
@@ -20,9 +20,9 @@ The project is organized into three main development areas: Machine Learning (ML
 
 | Directory | Description |
 | :--- | :--- |
-| `ML_models(detection)` | Contains notebooks and code for the main **Anomaly Detection (ANN)** model training and dataset generation. |
+| `ML_models(detection)` | Contains notebooks, data and code for the main **Anomaly Detection (ANN)** model training and dataset generation. |
 | `ML_models(correction)` | Hosts the notebooks (e.g., `model1.ipynb` to `model9.ipynb`) for training the **nine Random Forest models** used for autonomous signal correction. |
-| `edge_impulse/` | Scripts and data acquired for platform deployment and data formatting, including data segmentation (`split_in_csv.py`). |
+| `edge_impulse/` | Contains data_aquisition used to upload data to the platform, processing block used for feature extraction and learning block used to implement the machine learning NN model in the edge impluse. |
 | `STM32f429/` | Contains the **final embedded code** for the STM32F429 Discovery Kit, including the CubeMX project files and deployed C-code for the AI models. |
 | `schemaelectrique` | Project files containing electrical schematics and hardware design related to the ADCS and AI subsystem. |
 
