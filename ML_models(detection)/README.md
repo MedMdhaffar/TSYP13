@@ -6,7 +6,7 @@ The data undergoes a structured pipeline consisting of **scaling → feature ext
 ---
 
 ### A. Data Directory Structure  
-**Location:** `ML_models(detection)/OPS-SAT-NN/data`
+**Location:** `ML_models(detection)/OPS-SAT-NN`
 
 | File Name | Description | Source / Transformation |
 |----------|-------------|-------------------------|
