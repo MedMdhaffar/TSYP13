@@ -20,11 +20,11 @@ The project is organized into three main development areas: Machine Learning (ML
 
 | Directory | Description |
 | :--- | :--- |
-| `ML_models/OPS-SAT-NN/` | Contains notebooks and code for the main **Anomaly Detection (ANN)** model training and dataset generation. |
-| `correction_model/` | Hosts the notebooks (`model1.ipynb` to `model9.ipynb`) for training the **nine Random Forest models** used for autonomous signal correction. |
-| `edge_impulse/` | Scripts and data acquired for platform deployment and data formatting, including `split_in_csv.py`. |
+| `ML_models(detection)` | Contains notebooks and code for the main **Anomaly Detection (ANN)** model training and dataset generation. |
+| `ML_models(correction)` | Hosts the notebooks (e.g., `model1.ipynb` to `model9.ipynb`) for training the **nine Random Forest models** used for autonomous signal correction. |
+| `edge_impulse/` | Scripts and data acquired for platform deployment and data formatting, including data segmentation (`split_in_csv.py`). |
 | `STM32f429/` | Contains the **final embedded code** for the STM32F429 Discovery Kit, including the CubeMX project files and deployed C-code for the AI models. |
-| `TSYP_AESS_CHALLENGE (1).pdf` | Original project documentation and technical report. |
+| `schemaelectrique` | Project files containing electrical schematics and hardware design related to the ADCS and AI subsystem. |
 
 ## 🚀 Getting Started
 
