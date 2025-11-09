@@ -10,8 +10,11 @@ The final anomaly detection model is deployed using **STM32Cube.AI**, optimized 
 3. **Install Putty**
    https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
-2. **download / Open the Project**
-   doawnload it as a zip file
+4. **Install 7Zip**
+   https://www.7-zip.org
+
+5. **download / Open the Project**
+   doawnload it as a zip file and then extract it as a 7Zip ( required )
 
 ### B. Project Structure
 ```bash
