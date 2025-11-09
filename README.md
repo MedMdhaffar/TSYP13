@@ -128,12 +128,12 @@ This project utilizes the following key tools and platforms:
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Clone the Repository
 
-* Python 3.x
-* Required ML libraries (e.g., NumPy, Pandas, Scikit-learn, TensorFlow/Keras)
-* STM32CubeIDE (for embedded code compilation and flashing)
-* Git
+```bash
+git clone https://github.com/zaydbf/GAIAthon.git
+cd GAIAthon
+```
 
 ### ML Model Training
 
