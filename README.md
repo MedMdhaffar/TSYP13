@@ -131,6 +131,5 @@ This project utilizes the following key tools and platforms:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/zaydbf/GAIAthon.git
-cd GAIAthon
+git clone https://github.com/MedMdhaffar/TSYP13.git
 ```
