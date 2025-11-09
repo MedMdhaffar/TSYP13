@@ -26,6 +26,8 @@ The solution leverages a dual-AI approach optimized for low-power edge computing
 
 <img width="3078" height="3234" alt="Design sans titre" src="https://github.com/user-attachments/assets/23293640-3e94-43c9-8125-23f23cf26113" />
 
+### Electrical schema :
+<img width="1328" height="933" alt="image" src="https://github.com/user-attachments/assets/a676e3aa-4515-4038-8c16-7d64628d5c7f" />
 
 ---
 
