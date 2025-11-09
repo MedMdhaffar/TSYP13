@@ -1,6 +1,4 @@
-9# 🛰️ Autonomous ADCS Monitoring System for 3U
-CubeSats(OPS-SAT) Using AI-Driven Predictive
-Maintenance
+# 🛰️ Autonomous ADCS Monitoring System for 3U CubeSats(OPS-SAT) Using AI-Driven Predictive Maintenance
 
 ## Project Overview
 
