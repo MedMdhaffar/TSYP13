@@ -24,8 +24,8 @@ The solution leverages a dual-AI approach optimized for low-power edge computing
 ---
 
 ## 📂 Repository Structure
-```bash
 The project code and resources are logically separated into three major development areas: Machine Learning (ML), Data Processing, and Embedded Implementation.
+```bash
 ├── ML_models(detection)    # Anomaly Detection (ANN) Model Notebooks and Training Data
 ├── ML_models(correction)   # Random Forest Correction Model Notebooks (Model1 to Model9)
 ├── edge_impulse            # Data Acquisition Scripts and Edge Impulse Project Configurations
