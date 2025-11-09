@@ -7,8 +7,11 @@ The final anomaly detection model is deployed using **STM32Cube.AI**, optimized 
 1. **Install STM32CubeIDE**  
    https://www.st.com/en/development-tools/stm32cubeide.html
 
-2. **Clone / Open the Project**
-   The model is provided as a full STM32CubeIDE project.
+3. **Install Putty**
+   https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+2. **download / Open the Project**
+   doawnload it as a zip file
 
 ### B. Project Structure
 ```bash
