@@ -1,3 +1,5 @@
+# 🛰️ AI-Driven Predictive Maintenance for OPS-SAT ADCS
+
 ## Autonomous ADCS Monitoring System for 3U CubeSats
 
 ### Project Overview
@@ -7,7 +9,7 @@ This repository features the development of a resilient, **AI-driven electronics
 By running complex diagnostics directly on-board, the system significantly enhances mission resilience and reduces reliance on ground control, directly mitigating the high risk of failure often associated with CubeSat ADCS subsystems.
 
 
-<img width="3078" height="3234" alt="Design sans titre" src="https://github.com/user-attachments/assets/2b4d658f-fc9c-4828-83ec-9258742257ea" /># 🛰️ AI-Driven Predictive Maintenance for OPS-SAT ADCS
+<img width="3078" height="3234" alt="Design sans titre" src="https://github.com/user-attachments/assets/2b4d658f-fc9c-4828-83ec-9258742257ea" />
 
 
 ---
