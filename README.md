@@ -1,4 +1,5 @@
 9# 🛰️ Autonomous ADCS Monitoring System for OPS-SAT
+<img width="740" height="253" alt="image" src="https://github.com/user-attachments/assets/5a998ea6-ea5b-4f4a-9799-531fb8b73915" />
 
 ## Project Overview
 
