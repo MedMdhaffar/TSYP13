@@ -34,19 +34,13 @@ The ANN model is optimized for real-time inference on the **STM32F429** using th
 
 ## 📉 Confusion Matrix Analysis
 
-### A. **Artificial Neural Network (ANN)**
+| **Artificial Neural Network (ANN)** | **Random Forest (RF)** |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/014a1879-1b5f-4f2e-ac02-f0a412282ac2" width="350"> | <img src="https://github.com/user-attachments/assets/2f41fc5f-e1b2-461d-95f4-9d60bd418ead" width="350"> |
 
-<img width="422" height="327" alt="image" src="https://github.com/user-attachments/assets/014a1879-1b5f-4f2e-ac02-f0a412282ac2" />
+**Left:** ANN shows very low false positives (only 4) and strong anomaly detection sensitivity.  
+**Right:** RF produces fewer false positives but detects significantly fewer anomalies, reducing reliability in ADCS monitoring.
 
-The ANN shows **very low false positive rate** (only 4 cases), while maintaining high anomaly detection sensitivity.
-
----
-
-### B. **Random Forest (RF)**
-
-<img width="422" height="327" alt="image" src="https://github.com/user-attachments/assets/2f41fc5f-e1b2-461d-95f4-9d60bd418ead" />
-
-The RF model produces fewer false positives, but **detects fewer anomalies**, making it less suitable for safety-critical ADCS monitoring.
 
 ---
 
