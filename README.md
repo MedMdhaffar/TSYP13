@@ -8,9 +8,9 @@ This repository features the development of a resilient, **AI-driven electronics
 
 By running complex diagnostics directly on-board, the system significantly enhances mission resilience and reduces reliance on ground control, directly mitigating the high risk of failure often associated with CubeSat ADCS subsystems.
 
-
-<img width="754" height="326" alt="image" src="https://github.com/user-attachments/assets/a37d5b38-a686-4b0a-a191-43fa7d2d493b" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a37d5b38-a686-4b0a-a191-43fa7d2d493b" width="70%">
+</p>
 
 ---
 
