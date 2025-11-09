@@ -48,7 +48,7 @@ The project code and resources are logically separated into three major developm
 
 The ML subsystem is divided into **anomaly detection** and **predictive correction**, covering **9 ADCS sensor channels**.
 
-### A. **Anomaly Detection (ANN Model)**  
+### A. **Anomaly Detection **  
 **Directory:** `ML_models(detection)`
 
 Detects anomalies in real-time based on magnetometer and sun sensor data.
@@ -57,14 +57,14 @@ Detects anomalies in real-time based on magnetometer and sun sensor data.
 - Magnetometer: `X`, `Y`, `Z`  
 - Sun Sensor / Photodiodes: `PD1–PD6`
 
-**Performance (Testing Set):**
+**Performance (Testing Set)(ANN model):**
 | Metric | Value |
 |--------|-------|
 | Accuracy | **95.65%** |
 | F1 Score | **89.10%** |
 | AUC | **97.63%** |
 
-**Embedded Deployment (Cortex-M4F):**
+**Embedded Deployment (Cortex-M4F)(ANN model):**
 | Parameter | Value |
 |----------|-------|
 | Latency | **~2 ms** |
