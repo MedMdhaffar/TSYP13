@@ -10,12 +10,12 @@ The data undergoes a structured pipeline consisting of **scaling → feature ext
 
 | File Name | Description | Source / Transformation |
 |----------|-------------|-------------------------|
-| `segments.csv` | Raw ADCS telemetry data | Direct extraction from OPS-SAT system |
-| `segmentsT.csv` | Scaled telemetry values | Numerical scaling applied by multiplying micro-signals by \(10^6\) |
+| `/data/segments.csv` | Raw ADCS telemetry data | Direct extraction from OPS-SAT system |
+| `/data/segmentsT.csv` | Scaled telemetry values | Numerical scaling applied by multiplying micro-signals by \(10^6\) |
 | `datatransformation.py` | Data preprocessing script | Performs cleaning and scaling |
-| `__dataset.csv` | Feature-extracted dataset | Created after statistical and signal processing feature extraction |
+| `/data/__dataset.csv` | Feature-extracted dataset | Created after statistical and signal processing feature extraction |
 | `dataset_generator.py` | Feature extraction automation script | Segments signals and computes features |
-| `ready_data.csv` | Final optimized dataset for model training | Obtained after correlation filtering and feature reduction |
+| `/data/ready_data.csv` | Final optimized dataset for model training | Obtained after correlation filtering and feature reduction |
 
 ---
 
