@@ -11,7 +11,7 @@ By running complex diagnostics directly on-board, the system significantly enhan
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a37d5b38-a686-4b0a-a191-43fa7d2d493b" width="100%">
 </p>
----
+
 
 ## ✨ System Architecture and Key Features
 
@@ -23,6 +23,9 @@ The solution leverages a dual-AI approach optimized for low-power edge computing
 | **Predictive Signal Correction** | Nine specialized **Random Forest models** are utilized—one for each monitored ADCS channel—to autonomously calculate and apply corrections to abnormal signals. |
 | **Edge AI Optimization** | Models are deployed onto the **STM32F429** microcontroller for highly efficient, low-latency inference, respecting crucial **CubeSat constraints** (power, volume, radiation tolerance). |
 | **Detection Performance** | The core ANN model validation yielded high results on the testing set: **95.65% Accuracy** and an **89.1% F1 Score**. |
+
+<img width="3078" height="3234" alt="Design sans titre" src="https://github.com/user-attachments/assets/23293640-3e94-43c9-8125-23f23cf26113" />
+
 
 ---
 
