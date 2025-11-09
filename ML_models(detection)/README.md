@@ -185,10 +185,7 @@ Interpretation:
 
 This makes the ANN **highly efficient** and **mission-ready** for **real-time autonomous CubeSat operations**.
 
-The neural network architecture :
 <img width="354" height="1105" alt="image" src="https://github.com/user-attachments/assets/be273db6-7474-4e1a-8579-1a93560f8be3" />
-
-
 
 ---
 
