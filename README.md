@@ -1,30 +1,49 @@
-# 🛰️ Autonomous ADCS Monitoring System for 3U CubeSats(OPS-SAT) Using AI-Driven Predictive Maintenance
+# 🛰️ AI-Driven Predictive Maintenance for OPS-SAT ADCS
 
-## Project Overview
+## Autonomous ADCS Monitoring System for 3U CubeSats
 
-This repository documents the development of an **AI-driven electronics subsystem** for the European Space Agency's (ESA) **OPS-SAT CubeSat**. The core goal is to implement an **Autonomous Attitude Determination and Control System (ADCS) Monitoring System** that utilizes predictive maintenance to autonomously detect and correct anomalies in space.
+### Project Overview
 
-The system is designed to operate independently of ground control, enhancing mission resilience and mitigating the high risk of failure often associated with CubeSat ADCS issues.
+This repository features the development of a resilient, **AI-driven electronics subsystem** for the European Space Agency's (ESA) **OPS-SAT CubeSat**. The project's core mission is to create an **Autonomous Attitude Determination and Control System (ADCS) Monitoring System** that employs predictive maintenance algorithms to autonomously detect and correct anomalies while operating in space.
 
-## 🌟 Key Features
+By running complex diagnostics directly on-board, the system significantly enhances mission resilience and reduces reliance on ground control, directly mitigating the high risk of failure often associated with CubeSat ADCS subsystems.
 
-* **Autonomous Anomaly Detection:** An **Artificial Neural Network (ANN)** model detects faults in real-time sensor data from the ADCS.
-* **Predictive Correction:** Nine separate **Random Forest models** are used to autonomously correct abnormal signals for each monitored ADCS channel.
-* **Edge AI Implementation:** The ML models are deployed onto a resource-constrained platform, specifically targeting the **STM32F429** microcontroller for efficient, low-latency inference.
-* **Hardware Focus:** The electronic subsystem respects critical CubeSat constraints (power, volume, radiation tolerance).
-* **Performance:** The core ANN detection model achieved a testing accuracy of **95.65%** and an F1 score of **89.1%**.
+---
 
-## 💻 Repository Structure
+## ✨ System Architecture and Key Features
 
-The project is organized into three main development areas: Machine Learning (ML), Data Processing, and Embedded Implementation.
+The solution leverages a dual-AI approach optimized for low-power edge computing.
 
-| Directory | Description |
+| Feature | Description |
 | :--- | :--- |
-| `ML_models(detection)` | Contains notebooks, data and code for the main **Anomaly Detection (ANN)** model training and dataset generation. |
-| `ML_models(correction)` | Hosts the notebooks (e.g., `model1.ipynb` to `model9.ipynb`) for training the **nine Random Forest models** used for autonomous signal correction. |
-| `edge_impulse/` | Contains data_aquisition used to upload data to edge impulse, processing block used for feature extraction and learning block used to implement the machine learning NN model in the platform. |
-| `STM32f429/` | Contains the two **final embedded code** for the STM32F429 Discovery Kit, the first is deployed using edge impulse(low accuracy NN model) and the second is developped using CubeAI framework in STM32CubeIDE (high accuracy)and highly optimised. |
-| `schemaelectrique` | Project files containing electrical schematics and hardware design related to the ADCS and AI subsystem. |
+| **Autonomous Anomaly Detection** | An **Artificial Neural Network (ANN)** model analyzes real-time sensor data to flag faults and deviations from normal operating conditions. |
+| **Predictive Signal Correction** | Nine specialized **Random Forest models** are utilized—one for each monitored ADCS channel—to autonomously calculate and apply corrections to abnormal signals. |
+| **Edge AI Optimization** | Models are deployed onto the **STM32F429** microcontroller for highly efficient, low-latency inference, respecting crucial **CubeSat constraints** (power, volume, radiation tolerance). |
+| **Detection Performance** | The core ANN model validation yielded high results on the testing set: **95.65% Accuracy** and an **89.1% F1 Score**. |
+
+---
+
+## 📂 Repository Structure
+
+The project code and resources are logically separated into three major development areas: Machine Learning (ML), Data Processing, and Embedded Implementation.
+
+| Directory | Purpose and Content |
+| :--- | :--- |
+| `ML_models(detection)` | Contains the notebooks, training data, and source code used for developing the primary **Anomaly Detection (ANN) model** and generating the final dataset. |
+| `ML_models(correction)` | Dedicated space for the notebooks (e.g., `model1.ipynb` to `model9.ipynb`) used to train and validate the **nine Random Forest correction models**. |
+| `edge_impulse/` | Includes scripts for **data acquisition** (used for uploading data to the Edge Impulse platform), the **processing block** for feature extraction, and the **learning block** used to implement a lower-accuracy NN model within the platform. |
+| `STM32f429/` | Houses the **final embedded firmware** for the STM32F429 Discovery Kit. This includes two distinct deployments: one using the **Edge Impulse** framework and a highly optimized, high-accuracy deployment using the **CubeAI framework** within STM32CubeIDE. |
+| `schemaelectrique` | Stores project files related to the **electrical schematics** and hardware interface design for the integrated ADCS and AI subsystem. |
+
+---
+
+## ⚙️ Deployment and Development Tools
+
+This project utilizes the following key tools and platforms:
+
+* **Microcontroller:** STM32F429ZIT6 (Arm® Cortex®-M4)
+* **Embedded IDE:** STM32CubeIDE
+* **ML Frameworks:** TensorFlow/Keras, Scikit-learn, STM32Cube.AI, Edge Impulse
 
 ## 🚀 Getting Started
 
