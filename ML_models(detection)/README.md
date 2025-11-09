@@ -122,7 +122,7 @@ This makes the ANN model both **accurate** and **deployment-efficient**, meeting
 
 ---
 
-## IV. Artificial Neural Network (ANN) Architecture 🧠
+## 🧠 Artificial Neural Network (ANN) Architecture 
 
 The anomaly detection is executed using a **Multi-Layer Perceptron (MLP)** optimized for **fast, low-power edge inference** on the STM32F429 microcontroller.  
 The network performs a **binary classification** to determine whether a given ADCS telemetry segment is **Normal** or **Anomalous**.
