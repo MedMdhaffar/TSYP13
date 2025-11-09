@@ -134,36 +134,3 @@ This project utilizes the following key tools and platforms:
 git clone https://github.com/zaydbf/GAIAthon.git
 cd GAIAthon
 ```
-
-### ML Model Training
-
-1.  Navigate to the ML directories:
-    ```bash
-    cd ML_models/OPS-SAT-NN/
-    ```
-2.  Run the notebooks (`dataset_generator.ipynb`) to process and prepare training data.
-3.  Train and refine the ANN detection model.
-4.  Navigate to the correction model folder to train the Random Forest models:
-    ```bash
-    cd correction_model/
-    ```
-5.  Run `model1.ipynb` through `model9.ipynb` to train the individual correction models.
-
-### Embedded Deployment (Edge AI)
-
-1.  Export the trained models (e.g., TFLite or C-code format).
-2.  Open the project within the `STM32f429/Cube_AI/satellite_anomaly_detection_model/` directory using **STM32CubeIDE**.
-3.  Compile and flash the code onto the **STM32F429 Discovery Kit** for real-time validation.
-
-## ⚙️ Core Technology
-
-| Component | Role |
-| :--- | :--- |
-| **Microcontroller** | STM32F429ZIT6 (Arm® Cortex®-M4) |
-| **Detection AI** | Artificial Neural Network (ANN) |
-| **Correction AI** | 9 Random Forest Classifiers |
-| **Sensors Monitored** | Magnetometer (3-axis) and Photodiodes (6 channels) |
-
-## 📄 License
-
-This project is developed for the IEEE AESS Challenge (TSYP 13). All associated code and documentation rights are reserved by the authors and challenge rules.
