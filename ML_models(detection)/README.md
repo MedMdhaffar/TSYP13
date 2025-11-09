@@ -45,6 +45,9 @@ Highly correlated features were removed to improve:
 - Training stability
 
 **Examples of removed redundant features include:**
+len_weighted, diff2_var, var_div_len, var_div_duration, diff2_peaks, std
+
+<img width="1048" height="779" alt="image" src="https://github.com/user-attachments/assets/383b09c5-6073-4798-828a-78b51ce69848" />
 
 
 # 🧠 Anomaly Detection Model Comparison
