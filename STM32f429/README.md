@@ -13,8 +13,17 @@ The final anomaly detection model is deployed using **STM32Cube.AI**, optimized 
 4. **Install 7Zip**
    https://www.7-zip.org
 
-5. **download / Open the Project**
-   doawnload it as a zip file and then extract it as a 7Zip ( required )
+5. **Download / Open the Project**
+   download it as a zip file and then extract it as a 7Zip ( required )
+
+6. **Open STM32CubeIDE
+   head to File / Open Projects from File System..
+   head to Directory / Select the path to one of the two project either : \TSYP13-main\STM32f429\Cube_AI\satellite_anomaly_detection_model or : \TSYP13-main\STM32f429\edge impulse\supmohamed
+   Click on Finish
+   press on tab (project) then Build all then
+   If this shows click on (OK)
+   
+   <img width="495" height="153" alt="image" src="https://github.com/user-attachments/assets/75be96bf-93a8-471e-90ef-b0cc98e33b02" />
 
 ### B. Project Structure
 ```bash
