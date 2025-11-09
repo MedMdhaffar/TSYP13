@@ -11,7 +11,7 @@ The final anomaly detection model is deployed using **STM32Cube.AI**, optimized 
    The model is provided as a full STM32CubeIDE project.
 
 ### B. Project Structure
-bash```
+```bash
 Cube_AI/satellite_anomaly_detection_model
 ├── .ai
 ├── .settings
