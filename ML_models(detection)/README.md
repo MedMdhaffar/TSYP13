@@ -1,4 +1,4 @@
-## Dataset Overview and Preparation Pipeline 🧪
+## � Dataset Overview and Preparation Pipeline 
 
 The anomaly detection models are trained using telemetry collected from the **OPS-SAT ADCS** subsystem.  
 The data undergoes a structured pipeline consisting of **scaling → feature extraction → optimization** to produce a compact, high-information training dataset suitable for on-board inference.
