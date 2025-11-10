@@ -134,7 +134,7 @@ uint32_t timestamps[] = { ... };
 
 or 
 ```cpp
-static const float features[] ={};
+static const float features[] ={ ... };
 ```
 
 Optional source:
