@@ -1,7 +1,7 @@
 # 🚀 On-Board AI for ADCS Anomaly Detection  
-**Model Deployment on STM32 (STM32Cube.AI)**
+**Model Deployment on STM32 (STM32Cube.AI)and (Edge impulse)**
 
-This guide explains how to deploy and run the **Anomaly Detection + Correction Neural Networks** on the **STM32F429** microcontroller using **STM32Cube.AI**.  
+This guide explains how to deploy and run the **Anomaly Detection + Correction Neural Networks** on the **STM32F429** microcontroller using **STM32Cube.AI** and **Edge impulse**.  
 The model performs **real-time inference on-board** to detect anomalies in ADCS (Attitude Determination and Control System) telemetry, enabling on-orbit autonomy and safe satellite operation.
 
 ---
@@ -46,7 +46,7 @@ STM32CubeIDE → File → Open Projects from File System…
 
 3. Select this folder:
 
-TSYP13-main/STM32f429/Cube_AI/satellite_anomaly_detection_model
+TSYP13-main/STM32f429/Cube_AI/satellite_anomaly_detection_model  or  TSYP13-main/STM32f429/edge impulse/supmohamed
 
 
 Click **Finish**.
@@ -124,12 +124,17 @@ Expected terminal output:
 
 Edit the input arrays in:
 
-Core/Src/main.c
+Core/Src/main.c ( or main.cpp in edge impulse project )
 
 
 ```c
 float rawData[] = { ... };
 uint32_t timestamps[] = { ... };
+```
+
+or 
+```cpp
+static const float features[] ={};
 ```
 
 Optional source:
