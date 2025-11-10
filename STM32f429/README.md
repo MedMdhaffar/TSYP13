@@ -1,6 +1,6 @@
-## Model Deployment on STM32 (CubeAI)
+## I- Model Deployment on STM32 (CubeAI)
 
-The final model (detection+correction) model is deployed using **STM32Cube.AI**, optimized for embedded execution on the STM32F429 microcontroller.
+The machine learning models (detection+correction) are deployed using **STM32Cube.AI**, optimized for embedded execution on the STM32F429 microcontroller.
 
 ### A. Requirements
 
