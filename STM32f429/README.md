@@ -1,6 +1,6 @@
 ## Model Deployment on STM32 (CubeAI)
 
-The final anomaly detection model is deployed using **STM32Cube.AI**, optimized for embedded execution on the STM32F429 microcontroller.
+The final model (detection+correction) model is deployed using **STM32Cube.AI**, optimized for embedded execution on the STM32F429 microcontroller.
 
 ### A. Requirements
 
