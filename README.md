@@ -132,7 +132,4 @@ This project utilizes the following key tools and platforms:
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/MedMdhaffar/TSYP13.git
-cd TSYP13
-```
+download the code as a ZIP file (required)
