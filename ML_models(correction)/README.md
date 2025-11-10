@@ -1,6 +1,6 @@
 ## 🛠️ Sensor Correction Models (9-Model Suite)
 
-This folder contains **9 machine learning models**, each trained to detect and correct abnormal sensor readings from the CubeSat ADCS telemetry.
+This folder contains **9 machine learning models** (random forest models ) , each trained to detect and correct abnormal sensor readings from the CubeSat ADCS telemetry.
 
 ### 📂 Folder Structure
 ```bash
@@ -31,8 +31,6 @@ Normal operational behavior of its respective sensor
 
 How to reconstruct expected values during anomalies
 
-✅ Example Output (One Model Result)
-
-The image below shows a model successfully correcting an abnormal sensor reading:
+✅ model test result (One Model Result)
 
 <p align="center"> <img width="454" height="97" src="https://github.com/user-attachments/assets/8618a10a-ddee-44ef-9a51-b9861af2cf88" /> </p>
