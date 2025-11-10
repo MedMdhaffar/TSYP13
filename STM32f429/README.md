@@ -22,7 +22,7 @@ This guide explains how to deploy and run the **Anomaly Detection + Correction N
 | PuTTY | Serial terminal monitor | https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html |
 | 7Zip | Extract the project correctly | https://www.7-zip.org |
 
-Download the STM32 project and extract it using **7Zip**:
+Download the STM32 project as a ZIP file and extract it using **7Zip**:
 
 <p align="center">
   <img width="442" height="370" src="https://github.com/user-attachments/assets/fe3d5d39-351a-429a-b7b5-d6a5c71a6df7" />
