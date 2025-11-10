@@ -17,6 +17,8 @@ The machine learning models (detection+correction) are deployed using **STM32Cub
    https://www.7-zip.org
 
 7. **Download / Open the Project**
+   <img width="442" height="370" alt="image" src="https://github.com/user-attachments/assets/fe3d5d39-351a-429a-b7b5-d6a5c71a6df7" />
+
    
    download it as a zip file and then extract it as a 7Zip ( required )
 
