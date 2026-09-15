@@ -2,6 +2,11 @@
 
 ## Autonomous ADCS Monitoring System for 3U CubeSats
 
+### Prototype
+
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/53585b5f-ae8a-42af-b20a-648b7dd295e2" />
+
+
 ### Project Overview
 
 This repository features the development of a resilient, **AI-driven electronics subsystem** for the European Space Agency's (ESA) **OPS-SAT CubeSat**. The project's core mission is to create an **Autonomous Attitude Determination and Control System (ADCS) Monitoring System** that employs predictive maintenance algorithms to autonomously detect and correct anomalies while operating in space.
