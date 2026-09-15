@@ -1,6 +1,10 @@
 # 🚀 On-Board AI for ADCS Anomaly Detection  
 **Model Deployment on STM32 (STM32Cube.AI)and (Edge impulse)**
 
+## Prototype
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/490211aa-616b-42f9-9341-1b9c8c6e1c50" />
+
+
 This guide explains how to deploy and run the **Anomaly Detection + Correction Neural Networks** on the **STM32F429** microcontroller using **STM32Cube.AI** and **Edge impulse**.  
 The model performs **real-time inference on-board** to detect anomalies in ADCS (Attitude Determination and Control System) telemetry, enabling on-orbit autonomy and safe satellite operation.
 
