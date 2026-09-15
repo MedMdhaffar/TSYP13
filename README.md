@@ -4,8 +4,13 @@
 
 ### Prototype
 
-<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/53585b5f-ae8a-42af-b20a-648b7dd295e2" />
-
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/53585b5f-ae8a-42af-b20a-648b7dd295e2"
+    width="500"
+    alt="image"
+  />
+</p>
 
 ### Project Overview
 
